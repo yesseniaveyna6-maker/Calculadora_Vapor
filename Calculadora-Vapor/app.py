@@ -24,7 +24,7 @@ hr {
 
 /* Titulos en dorado */
 h1, h2, h3 {
-    color: #C8A951;
+    color: #FFFFFF;
 }
 
 /* Números de métricas */
@@ -213,6 +213,7 @@ with col2:
 # ---------------------------------------------------
 st.divider()
 st.caption("Herramienta para evaluación de pérdidas energéticas | 2026")
+
 
 
 
