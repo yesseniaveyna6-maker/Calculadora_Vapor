@@ -218,3 +218,4 @@ st.caption("Herramienta para evaluación de pérdidas energéticas | 2026")
 
 
 
+
