@@ -18,21 +18,19 @@ st.set_page_config(
 st.markdown("""
 <style>
 
-/* Fondo degradado azul */
+/* Fondo */
 .stApp {
-    background: linear-gradient(180deg, #0B1F3B 0%, #163A6B 40%, #FFFFFF 100%);
-}
-
-/* Línea dorada */
-hr {
-    border: none;
-    height: 4px;
-    background-color: #C8A951;
+    background-color: white;
 }
 
 /* Títulos */
-h1, h2, h3 {
-    color: white !important;
+h1, h2, h3, h4 {
+    color: #0B3D91 !important;
+}
+
+/* Texto normal */
+label, .stMarkdown, p {
+    color: #0B3D91 !important;
 }
 
 
